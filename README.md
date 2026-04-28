@@ -1,7 +1,7 @@
 # Pristine Seas — National Geographic Society
 
-**A full-stack archive platform built for NatGeo's ocean conservation program.**  
-Built through a 180 Degrees Consulting engagement · University of Michigan
+**A full-stack archive platform built for National Geographic's ocean conservation program.**  
+Built through a 180 Degrees Consulting engagement · University of California, Berkeley
 
 > The repository is private at the client's request. This page documents the scope, architecture, and decisions behind the project.
 
@@ -76,6 +76,6 @@ The photographer portal uses a custom JWT implementation built on Node's native 
 
 ## Team
 
-Built by a 180 Degrees Consulting team at the University of Michigan. 180DC is the world's largest student-run consultancy, partnering with nonprofits and social enterprises globally.
+Built by a 180 Degrees Consulting team at the University of California, Berkeley. 180DC is the world's largest student-run consultancy, partnering with nonprofits and social enterprises globally.
 
 The team included two members with development experience and several with no coding background — the non-technical members produced the Figma designs, financial modeling, migration planning, and API workflow documentation that made the technical implementation possible.
